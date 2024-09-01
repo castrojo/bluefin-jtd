@@ -1,13 +1,11 @@
-title: Bluefin Documentation
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Bluefin
+description: A nice operating system for your PC
 theme: just-the-docs
 
 url: https://castrojo.github.io
 
-
-
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repository: https://github.com/ublue-os/bluefin
 
 nav_enabled: true
 heading_anchors: true
