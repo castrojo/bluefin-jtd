@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Installing Bluefin on a Framework 16
+parent: framework
 author: Matt Hartley
 permalink: framework-16
 ---
