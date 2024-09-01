@@ -7,10 +7,13 @@ permalink: /
 ---
 
 # Welcome to Bluefin
+{: .fs-9 }
 
-A custom image of Fedora Silverblue, offering a familiar(ish) Ubuntu-style desktop. 
+A custom image of Fedora Silverblue, offering a familiar(ish) Ubuntu-style desktop. For end users it provides a system as reliable as a Chromebook with near-zero maintenance while providing developers with a powerful [cloud-native development mode](bluefin-dx). Built with next generation tech, for people who need their machines to get work done. 
+{: .fs-6 .fw-300 }
 
-For end users it provides a system as reliable as a Chromebook with near-zero maintenance while providing developers with a powerful [cloud-native development mode](bluefin-dx). Built with next generation tech, for people who need their machines to get work done. 
+[Get started now](#introduction){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ![image](https://github.com/ublue-os/bluefin/assets/1264109/b093bdec-40dc-48d2-b8ff-fcf0df390e8c)
 
